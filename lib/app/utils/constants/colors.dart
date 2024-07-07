@@ -12,11 +12,13 @@ class TColors {
   static const Color textPrimary = Color(0xFF333333);
   static const Color textSecondary = Color(0xFF6C757D);
   static const Color textWhite = Colors.white;
+  static const Color textGrey = Color(0xFFB6C1C2);
 
 // Background Colors
   static const Color Light = Color(0xFFF6F6F6);
   static const Color dark = Color(0xFF272727);
   static const Color primaryBackground = Color(0xFFF3F5FF);
+  static const Color carouselColor = Color(0xFF5B5B5B);
 
 // Background Container Colors
   static const Color LightContainer = Color(0xFFF6F6F6);
