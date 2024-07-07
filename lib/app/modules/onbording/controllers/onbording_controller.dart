@@ -3,6 +3,6 @@ import 'package:get/get.dart';
 
 class OnBordingController extends GetxController {
   void navigateToLogin() {
-    Get.offAllNamed(Routes.ONBORDING);
+    Get.offAllNamed(Routes.AUTH);
   }
 }
