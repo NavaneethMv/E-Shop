@@ -12,6 +12,7 @@ class TTexts {
       "For Seamless Transactions, Choose Your Payment Path - Your Convenience, Our Priority!";
   static const String onBoardingSubTitle3 =
       "From Our Doorstep to Yours - Swift, Secure, and Contactless Delivery!";
+  static const String searchInputLabelText = "Search for items";
 
 // -- Home
   static const String homeAppbarTitle = "Good day for shopping";
