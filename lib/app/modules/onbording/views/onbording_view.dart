@@ -50,7 +50,7 @@ class OnBordingView extends GetView<OnBordingController> {
               right: TSizes.defauItSpace,
               bottom: TDeviceUtils.getBottomNavigationBarHeight(),
               child: ElevatedButton(
-                onPressed: () => controller,
+                onPressed: controller.navigateToLogin,
                 child: const Icon(Iconsax.arrow_right_3),
               ))
         ],
